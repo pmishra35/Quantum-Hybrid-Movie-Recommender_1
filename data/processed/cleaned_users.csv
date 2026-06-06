@@ -1,0 +1,501 @@
+user_id,gender,age,occupation,gender_encoded,age_label,age_encoded,occupation_label
+32,F,25,0,0,25-34,2,other
+40,M,45,0,1,45-49,4,other
+42,M,25,8,1,25-34,2,farmer
+58,M,25,2,1,25-34,2,artist
+83,F,25,2,0,25-34,2,artist
+107,M,45,18,1,45-49,4,tradesman/craftsman
+108,M,25,12,1,25-34,2,programmer
+113,M,18,12,1,18-24,1,programmer
+127,F,45,3,0,45-49,4,clerical/admin
+130,M,35,17,1,35-44,3,technician/engineer
+131,M,18,4,1,18-24,1,college/grad student
+133,F,25,0,0,25-34,2,other
+150,M,35,7,1,35-44,3,executive/managerial
+175,F,25,2,0,25-34,2,artist
+190,M,25,17,1,25-34,2,technician/engineer
+198,M,25,12,1,25-34,2,programmer
+211,M,45,17,1,45-49,4,technician/engineer
+220,M,25,12,1,25-34,2,programmer
+241,M,35,20,1,35-44,3,writer
+246,F,18,4,0,18-24,1,college/grad student
+265,F,35,7,0,35-44,3,executive/managerial
+266,M,35,11,1,35-44,3,lawyer
+332,M,50,1,1,50-55,5,academic/educator
+356,M,56,20,1,56+,6,writer
+378,F,18,0,0,18-24,1,other
+380,M,25,2,1,25-34,2,artist
+401,M,18,0,1,18-24,1,other
+429,M,18,0,1,18-24,1,other
+449,M,25,7,1,25-34,2,executive/managerial
+457,M,18,4,1,18-24,1,college/grad student
+477,M,35,14,1,35-44,3,sales/marketing
+482,M,25,14,1,25-34,2,sales/marketing
+484,F,1,10,0,Under 18,0,K-12 student
+489,M,18,4,1,18-24,1,college/grad student
+495,M,18,10,1,18-24,1,K-12 student
+503,M,35,11,1,35-44,3,lawyer
+504,M,25,2,1,25-34,2,artist
+514,M,25,2,1,25-34,2,artist
+515,M,25,1,1,25-34,2,academic/educator
+523,M,50,7,1,50-55,5,executive/managerial
+537,M,45,14,1,45-49,4,sales/marketing
+548,F,35,16,0,35-44,3,self-employed
+556,F,25,9,0,25-34,2,homemaker
+559,F,25,7,0,25-34,2,executive/managerial
+600,M,35,17,1,35-44,3,technician/engineer
+607,M,25,0,1,25-34,2,other
+632,M,45,17,1,45-49,4,technician/engineer
+636,M,18,20,1,18-24,1,writer
+649,M,25,4,1,25-34,2,college/grad student
+658,F,25,0,0,25-34,2,other
+678,M,25,0,1,25-34,2,other
+685,M,25,4,1,25-34,2,college/grad student
+696,M,25,12,1,25-34,2,programmer
+713,M,35,7,1,35-44,3,executive/managerial
+718,M,18,2,1,18-24,1,artist
+720,M,18,0,1,18-24,1,other
+726,F,25,9,0,25-34,2,homemaker
+728,M,25,6,1,25-34,2,doctor/health care
+730,M,25,0,1,25-34,2,other
+735,M,25,14,1,25-34,2,sales/marketing
+740,M,25,14,1,25-34,2,sales/marketing
+783,M,25,4,1,25-34,2,college/grad student
+785,M,18,19,1,18-24,1,unemployed
+789,M,18,1,1,18-24,1,academic/educator
+791,M,35,7,1,35-44,3,executive/managerial
+792,M,25,17,1,25-34,2,technician/engineer
+811,M,50,0,1,50-55,5,other
+820,M,35,7,1,35-44,3,executive/managerial
+830,M,35,7,1,35-44,3,executive/managerial
+838,M,50,17,1,50-55,5,technician/engineer
+843,M,25,7,1,25-34,2,executive/managerial
+856,F,45,6,0,45-49,4,doctor/health care
+864,F,25,0,0,25-34,2,other
+872,M,50,1,1,50-55,5,academic/educator
+881,M,18,14,1,18-24,1,sales/marketing
+889,M,45,20,1,45-49,4,writer
+894,M,18,4,1,18-24,1,college/grad student
+904,M,35,20,1,35-44,3,writer
+909,M,45,7,1,45-49,4,executive/managerial
+923,M,25,7,1,25-34,2,executive/managerial
+939,F,25,20,0,25-34,2,writer
+952,M,56,16,1,56+,6,self-employed
+954,F,25,0,0,25-34,2,other
+970,M,25,0,1,25-34,2,other
+990,M,18,6,1,18-24,1,doctor/health care
+997,M,1,19,1,Under 18,0,unemployed
+1016,M,56,16,1,56+,6,self-employed
+1020,M,18,20,1,18-24,1,writer
+1038,F,56,15,0,56+,6,scientist
+1040,M,25,11,1,25-34,2,lawyer
+1064,M,25,7,1,25-34,2,executive/managerial
+1065,F,25,0,0,25-34,2,other
+1089,M,35,6,1,35-44,3,doctor/health care
+1091,M,18,5,1,18-24,1,customer service
+1118,M,50,13,1,50-55,5,retired
+1128,M,25,1,1,25-34,2,academic/educator
+1167,F,50,1,0,50-55,5,academic/educator
+1192,M,50,16,1,50-55,5,self-employed
+1220,M,1,10,1,Under 18,0,K-12 student
+1267,M,25,15,1,25-34,2,scientist
+1275,M,50,17,1,50-55,5,technician/engineer
+1319,F,25,3,0,25-34,2,clerical/admin
+1331,M,45,0,1,45-49,4,other
+1351,F,25,17,0,25-34,2,technician/engineer
+1367,M,25,12,1,25-34,2,programmer
+1368,F,25,3,0,25-34,2,clerical/admin
+1388,M,56,20,1,56+,6,writer
+1390,M,35,16,1,35-44,3,self-employed
+1402,M,18,4,1,18-24,1,college/grad student
+1428,F,45,11,0,45-49,4,lawyer
+1502,M,18,4,1,18-24,1,college/grad student
+1507,M,35,17,1,35-44,3,technician/engineer
+1509,M,1,0,1,Under 18,0,other
+1516,F,25,12,0,25-34,2,programmer
+1528,M,25,15,1,25-34,2,scientist
+1545,M,25,20,1,25-34,2,writer
+1554,F,35,12,0,35-44,3,programmer
+1558,M,18,6,1,18-24,1,doctor/health care
+1567,M,25,12,1,25-34,2,programmer
+1568,F,1,10,0,Under 18,0,K-12 student
+1572,F,25,3,0,25-34,2,clerical/admin
+1602,F,25,7,0,25-34,2,executive/managerial
+1606,F,35,3,0,35-44,3,clerical/admin
+1626,M,18,4,1,18-24,1,college/grad student
+1647,M,18,18,1,18-24,1,tradesman/craftsman
+1662,M,25,12,1,25-34,2,programmer
+1663,M,18,4,1,18-24,1,college/grad student
+1666,M,25,14,1,25-34,2,sales/marketing
+1672,M,25,17,1,25-34,2,technician/engineer
+1712,M,25,0,1,25-34,2,other
+1713,M,25,0,1,25-34,2,other
+1716,M,25,0,1,25-34,2,other
+1726,M,25,2,1,25-34,2,artist
+1728,M,18,4,1,18-24,1,college/grad student
+1734,M,45,17,1,45-49,4,technician/engineer
+1741,M,35,7,1,35-44,3,executive/managerial
+1750,M,50,5,1,50-55,5,customer service
+1758,F,25,0,0,25-34,2,other
+1761,M,35,0,1,35-44,3,other
+1765,M,18,4,1,18-24,1,college/grad student
+1767,M,25,20,1,25-34,2,writer
+1768,M,45,16,1,45-49,4,self-employed
+1784,M,18,20,1,18-24,1,writer
+1801,F,25,6,0,25-34,2,doctor/health care
+1821,M,25,20,1,25-34,2,writer
+1827,F,25,1,0,25-34,2,academic/educator
+1834,M,35,5,1,35-44,3,customer service
+1844,F,18,4,0,18-24,1,college/grad student
+1847,M,18,4,1,18-24,1,college/grad student
+1855,M,18,4,1,18-24,1,college/grad student
+1865,F,18,1,0,18-24,1,academic/educator
+1867,M,50,7,1,50-55,5,executive/managerial
+1879,M,25,4,1,25-34,2,college/grad student
+1880,M,35,0,1,35-44,3,other
+1905,F,35,20,0,35-44,3,writer
+1909,M,18,4,1,18-24,1,college/grad student
+1912,M,25,4,1,25-34,2,college/grad student
+1935,M,1,10,1,Under 18,0,K-12 student
+1946,M,25,14,1,25-34,2,sales/marketing
+1966,M,25,20,1,25-34,2,writer
+1974,M,35,17,1,35-44,3,technician/engineer
+1980,M,35,7,1,35-44,3,executive/managerial
+1984,M,18,10,1,18-24,1,K-12 student
+2015,M,18,4,1,18-24,1,college/grad student
+2036,F,25,14,0,25-34,2,sales/marketing
+2055,M,50,11,1,50-55,5,lawyer
+2063,M,25,4,1,25-34,2,college/grad student
+2075,F,25,4,0,25-34,2,college/grad student
+2078,M,18,4,1,18-24,1,college/grad student
+2103,M,35,12,1,35-44,3,programmer
+2125,M,35,3,1,35-44,3,clerical/admin
+2179,F,25,0,0,25-34,2,other
+2183,F,56,1,0,56+,6,academic/educator
+2184,M,18,4,1,18-24,1,college/grad student
+2210,M,45,17,1,45-49,4,technician/engineer
+2241,M,45,5,1,45-49,4,customer service
+2250,M,18,19,1,18-24,1,unemployed
+2260,F,25,20,0,25-34,2,writer
+2303,M,50,17,1,50-55,5,technician/engineer
+2319,M,35,7,1,35-44,3,executive/managerial
+2323,M,35,3,1,35-44,3,clerical/admin
+2334,F,56,7,0,56+,6,executive/managerial
+2378,M,25,3,1,25-34,2,clerical/admin
+2385,F,45,2,0,45-49,4,artist
+2402,M,45,17,1,45-49,4,technician/engineer
+2407,M,35,16,1,35-44,3,self-employed
+2426,M,56,0,1,56+,6,other
+2432,M,25,4,1,25-34,2,college/grad student
+2434,M,25,4,1,25-34,2,college/grad student
+2451,M,45,12,1,45-49,4,programmer
+2458,M,25,7,1,25-34,2,executive/managerial
+2470,M,35,18,1,35-44,3,tradesman/craftsman
+2474,M,25,12,1,25-34,2,programmer
+2481,M,35,14,1,35-44,3,sales/marketing
+2488,F,45,2,0,45-49,4,artist
+2489,F,35,9,0,35-44,3,homemaker
+2491,M,35,7,1,35-44,3,executive/managerial
+2497,F,50,14,0,50-55,5,sales/marketing
+2505,M,25,7,1,25-34,2,executive/managerial
+2510,M,25,7,1,25-34,2,executive/managerial
+2517,F,35,9,0,35-44,3,homemaker
+2555,M,56,7,1,56+,6,executive/managerial
+2563,M,45,13,1,45-49,4,retired
+2565,M,35,5,1,35-44,3,customer service
+2570,F,56,14,0,56+,6,sales/marketing
+2573,M,45,16,1,45-49,4,self-employed
+2575,M,35,7,1,35-44,3,executive/managerial
+2580,F,45,1,0,45-49,4,academic/educator
+2586,M,25,20,1,25-34,2,writer
+2593,M,56,16,1,56+,6,self-employed
+2595,M,18,4,1,18-24,1,college/grad student
+2596,M,50,7,1,50-55,5,executive/managerial
+2599,M,25,12,1,25-34,2,programmer
+2611,M,25,3,1,25-34,2,clerical/admin
+2627,M,25,1,1,25-34,2,academic/educator
+2628,F,25,2,0,25-34,2,artist
+2635,M,35,0,1,35-44,3,other
+2641,M,25,6,1,25-34,2,doctor/health care
+2664,M,35,7,1,35-44,3,executive/managerial
+2669,M,45,0,1,45-49,4,other
+2672,M,35,7,1,35-44,3,executive/managerial
+2674,M,25,4,1,25-34,2,college/grad student
+2703,M,35,11,1,35-44,3,lawyer
+2718,F,25,4,0,25-34,2,college/grad student
+2761,M,35,6,1,35-44,3,doctor/health care
+2774,M,25,1,1,25-34,2,academic/educator
+2783,M,45,17,1,45-49,4,technician/engineer
+2786,M,25,4,1,25-34,2,college/grad student
+2790,M,25,20,1,25-34,2,writer
+2806,M,1,10,1,Under 18,0,K-12 student
+2811,M,25,19,1,25-34,2,unemployed
+2834,M,35,1,1,35-44,3,academic/educator
+2838,M,18,1,1,18-24,1,academic/educator
+2844,M,25,20,1,25-34,2,writer
+2846,F,18,4,0,18-24,1,college/grad student
+2847,M,18,4,1,18-24,1,college/grad student
+2853,M,1,1,1,Under 18,0,academic/educator
+2858,F,1,10,0,Under 18,0,K-12 student
+2860,M,35,17,1,35-44,3,technician/engineer
+2862,M,45,7,1,45-49,4,executive/managerial
+2866,M,25,7,1,25-34,2,executive/managerial
+2879,M,18,4,1,18-24,1,college/grad student
+2923,M,35,12,1,35-44,3,programmer
+2924,F,18,4,0,18-24,1,college/grad student
+2969,M,25,7,1,25-34,2,executive/managerial
+2978,M,35,20,1,35-44,3,writer
+2992,M,18,4,1,18-24,1,college/grad student
+3018,M,35,0,1,35-44,3,other
+3031,M,18,4,1,18-24,1,college/grad student
+3038,F,35,2,0,35-44,3,artist
+3039,F,50,3,0,50-55,5,clerical/admin
+3043,M,18,2,1,18-24,1,artist
+3060,F,35,1,0,35-44,3,academic/educator
+3065,F,18,4,0,18-24,1,college/grad student
+3092,M,35,15,1,35-44,3,scientist
+3121,M,25,2,1,25-34,2,artist
+3140,F,25,4,0,25-34,2,college/grad student
+3141,M,25,14,1,25-34,2,sales/marketing
+3142,M,25,20,1,25-34,2,writer
+3156,M,35,7,1,35-44,3,executive/managerial
+3161,M,25,7,1,25-34,2,executive/managerial
+3172,M,18,12,1,18-24,1,programmer
+3173,M,25,12,1,25-34,2,programmer
+3174,F,18,14,0,18-24,1,sales/marketing
+3181,M,25,12,1,25-34,2,programmer
+3200,F,25,1,0,25-34,2,academic/educator
+3203,M,35,0,1,35-44,3,other
+3207,M,35,7,1,35-44,3,executive/managerial
+3211,M,50,16,1,50-55,5,self-employed
+3217,F,35,0,0,35-44,3,other
+3241,F,50,0,0,50-55,5,other
+3257,M,25,14,1,25-34,2,sales/marketing
+3258,M,45,6,1,45-49,4,doctor/health care
+3329,M,50,18,1,50-55,5,tradesman/craftsman
+3333,M,18,16,1,18-24,1,self-employed
+3341,M,25,20,1,25-34,2,writer
+3374,M,35,5,1,35-44,3,customer service
+3378,M,18,4,1,18-24,1,college/grad student
+3391,M,18,4,1,18-24,1,college/grad student
+3409,M,25,4,1,25-34,2,college/grad student
+3423,M,25,7,1,25-34,2,executive/managerial
+3434,M,18,4,1,18-24,1,college/grad student
+3466,M,25,14,1,25-34,2,sales/marketing
+3482,M,50,17,1,50-55,5,technician/engineer
+3525,F,18,4,0,18-24,1,college/grad student
+3543,M,25,17,1,25-34,2,technician/engineer
+3557,M,18,5,1,18-24,1,customer service
+3558,M,18,17,1,18-24,1,technician/engineer
+3579,M,18,0,1,18-24,1,other
+3582,F,35,0,0,35-44,3,other
+3584,M,18,0,1,18-24,1,other
+3591,M,35,6,1,35-44,3,doctor/health care
+3599,M,25,16,1,25-34,2,self-employed
+3604,F,1,10,0,Under 18,0,K-12 student
+3613,M,25,0,1,25-34,2,other
+3626,M,25,17,1,25-34,2,technician/engineer
+3629,F,50,7,0,50-55,5,executive/managerial
+3638,M,25,2,1,25-34,2,artist
+3640,M,35,7,1,35-44,3,executive/managerial
+3655,F,25,7,0,25-34,2,executive/managerial
+3659,M,18,4,1,18-24,1,college/grad student
+3707,F,18,0,0,18-24,1,other
+3734,M,18,4,1,18-24,1,college/grad student
+3756,M,18,12,1,18-24,1,programmer
+3759,M,35,6,1,35-44,3,doctor/health care
+3765,F,50,3,0,50-55,5,clerical/admin
+3771,M,25,1,1,25-34,2,academic/educator
+3785,F,25,20,0,25-34,2,writer
+3788,F,18,0,0,18-24,1,other
+3789,F,25,0,0,25-34,2,other
+3803,F,35,9,0,35-44,3,homemaker
+3816,F,25,3,0,25-34,2,clerical/admin
+3826,M,25,1,1,25-34,2,academic/educator
+3829,F,25,1,0,25-34,2,academic/educator
+3832,F,25,7,0,25-34,2,executive/managerial
+3848,M,25,15,1,25-34,2,scientist
+3855,M,25,17,1,25-34,2,technician/engineer
+3862,M,25,17,1,25-34,2,technician/engineer
+3869,M,18,17,1,18-24,1,technician/engineer
+3897,M,56,17,1,56+,6,technician/engineer
+3908,M,25,0,1,25-34,2,other
+3912,M,25,4,1,25-34,2,college/grad student
+3919,M,45,0,1,45-49,4,other
+3929,M,25,5,1,25-34,2,customer service
+3934,M,25,0,1,25-34,2,other
+3940,M,35,20,1,35-44,3,writer
+3968,M,25,2,1,25-34,2,artist
+3983,M,25,0,1,25-34,2,other
+3985,M,45,16,1,45-49,4,self-employed
+3986,M,25,7,1,25-34,2,executive/managerial
+3994,M,50,7,1,50-55,5,executive/managerial
+4020,M,25,6,1,25-34,2,doctor/health care
+4037,M,50,16,1,50-55,5,self-employed
+4058,M,25,6,1,25-34,2,doctor/health care
+4086,F,1,10,0,Under 18,0,K-12 student
+4100,M,56,6,1,56+,6,doctor/health care
+4124,M,25,18,1,25-34,2,tradesman/craftsman
+4128,M,35,6,1,35-44,3,doctor/health care
+4140,M,25,0,1,25-34,2,other
+4156,M,56,20,1,56+,6,writer
+4161,M,45,0,1,45-49,4,other
+4163,M,56,7,1,56+,6,executive/managerial
+4173,F,18,11,0,18-24,1,lawyer
+4228,M,50,18,1,50-55,5,tradesman/craftsman
+4232,F,35,20,0,35-44,3,writer
+4241,M,35,7,1,35-44,3,executive/managerial
+4249,F,18,17,0,18-24,1,technician/engineer
+4259,M,35,17,1,35-44,3,technician/engineer
+4271,M,35,7,1,35-44,3,executive/managerial
+4273,M,45,13,1,45-49,4,retired
+4278,F,45,7,0,45-49,4,executive/managerial
+4290,M,25,17,1,25-34,2,technician/engineer
+4323,M,18,4,1,18-24,1,college/grad student
+4337,M,18,20,1,18-24,1,writer
+4341,M,35,17,1,35-44,3,technician/engineer
+4350,M,18,2,1,18-24,1,artist
+4352,M,18,4,1,18-24,1,college/grad student
+4359,M,18,4,1,18-24,1,college/grad student
+4368,M,18,17,1,18-24,1,technician/engineer
+4380,F,25,1,0,25-34,2,academic/educator
+4384,M,25,0,1,25-34,2,other
+4393,M,18,4,1,18-24,1,college/grad student
+4407,M,18,4,1,18-24,1,college/grad student
+4408,F,45,2,0,45-49,4,artist
+4413,M,1,13,1,Under 18,0,retired
+4414,M,25,4,1,25-34,2,college/grad student
+4417,M,25,15,1,25-34,2,scientist
+4420,M,25,15,1,25-34,2,scientist
+4429,M,25,5,1,25-34,2,customer service
+4439,M,35,6,1,35-44,3,doctor/health care
+4443,M,56,2,1,56+,6,artist
+4465,M,18,4,1,18-24,1,college/grad student
+4469,F,45,12,0,45-49,4,programmer
+4478,M,1,12,1,Under 18,0,programmer
+4496,M,45,2,1,45-49,4,artist
+4499,M,25,6,1,25-34,2,doctor/health care
+4505,M,50,7,1,50-55,5,executive/managerial
+4512,M,25,1,1,25-34,2,academic/educator
+4533,M,25,12,1,25-34,2,programmer
+4540,F,25,14,0,25-34,2,sales/marketing
+4543,M,25,2,1,25-34,2,artist
+4545,M,25,16,1,25-34,2,self-employed
+4554,F,25,9,0,25-34,2,homemaker
+4556,M,45,16,1,45-49,4,self-employed
+4563,F,25,6,0,25-34,2,doctor/health care
+4569,M,25,0,1,25-34,2,other
+4582,F,25,0,0,25-34,2,other
+4603,F,35,2,0,35-44,3,artist
+4614,F,45,1,0,45-49,4,academic/educator
+4617,F,25,6,0,25-34,2,doctor/health care
+4620,F,18,17,0,18-24,1,technician/engineer
+4645,F,50,6,0,50-55,5,doctor/health care
+4664,F,45,7,0,45-49,4,executive/managerial
+4669,M,35,7,1,35-44,3,executive/managerial
+4675,F,18,4,0,18-24,1,college/grad student
+4683,M,25,0,1,25-34,2,other
+4686,M,18,1,1,18-24,1,academic/educator
+4698,F,25,6,0,25-34,2,doctor/health care
+4710,F,35,16,0,35-44,3,self-employed
+4722,M,35,12,1,35-44,3,programmer
+4742,M,25,3,1,25-34,2,clerical/admin
+4750,F,25,0,0,25-34,2,other
+4762,F,25,14,0,25-34,2,sales/marketing
+4787,M,1,11,1,Under 18,0,lawyer
+4800,M,18,4,1,18-24,1,college/grad student
+4801,M,25,4,1,25-34,2,college/grad student
+4828,F,18,20,0,18-24,1,writer
+4836,F,45,16,0,45-49,4,self-employed
+4845,F,25,1,0,25-34,2,academic/educator
+4853,M,25,7,1,25-34,2,executive/managerial
+4870,F,35,3,0,35-44,3,clerical/admin
+4875,M,35,0,1,35-44,3,other
+4927,M,45,0,1,45-49,4,other
+4934,F,25,0,0,25-34,2,other
+4945,M,50,0,1,50-55,5,other
+4950,M,25,16,1,25-34,2,self-employed
+4961,M,25,7,1,25-34,2,executive/managerial
+4991,F,56,14,0,56+,6,sales/marketing
+4995,M,50,20,1,50-55,5,writer
+5044,F,35,6,0,35-44,3,doctor/health care
+5061,F,18,19,0,18-24,1,unemployed
+5078,M,45,7,1,45-49,4,executive/managerial
+5097,M,56,16,1,56+,6,self-employed
+5151,M,18,19,1,18-24,1,unemployed
+5157,M,35,1,1,35-44,3,academic/educator
+5158,F,18,4,0,18-24,1,college/grad student
+5168,M,35,7,1,35-44,3,executive/managerial
+5192,M,25,7,1,25-34,2,executive/managerial
+5199,F,25,1,0,25-34,2,academic/educator
+5218,M,18,0,1,18-24,1,other
+5225,M,18,4,1,18-24,1,college/grad student
+5235,M,25,4,1,25-34,2,college/grad student
+5238,F,50,16,0,50-55,5,self-employed
+5243,M,1,10,1,Under 18,0,K-12 student
+5258,M,35,4,1,35-44,3,college/grad student
+5260,M,35,7,1,35-44,3,executive/managerial
+5275,M,25,17,1,25-34,2,technician/engineer
+5286,M,45,16,1,45-49,4,self-employed
+5289,M,45,2,1,45-49,4,artist
+5330,F,25,0,0,25-34,2,other
+5367,M,18,4,1,18-24,1,college/grad student
+5370,M,25,12,1,25-34,2,programmer
+5372,M,25,4,1,25-34,2,college/grad student
+5417,M,18,17,1,18-24,1,technician/engineer
+5422,M,50,7,1,50-55,5,executive/managerial
+5423,F,50,5,0,50-55,5,customer service
+5464,M,35,7,1,35-44,3,executive/managerial
+5501,M,25,2,1,25-34,2,artist
+5504,M,45,7,1,45-49,4,executive/managerial
+5512,F,25,17,0,25-34,2,technician/engineer
+5522,M,25,14,1,25-34,2,sales/marketing
+5529,M,18,6,1,18-24,1,doctor/health care
+5542,M,45,7,1,45-49,4,executive/managerial
+5545,F,35,16,0,35-44,3,self-employed
+5548,F,18,4,0,18-24,1,college/grad student
+5559,M,50,1,1,50-55,5,academic/educator
+5564,M,45,20,1,45-49,4,writer
+5571,F,25,9,0,25-34,2,homemaker
+5574,M,25,0,1,25-34,2,other
+5583,M,56,15,1,56+,6,scientist
+5595,M,25,20,1,25-34,2,writer
+5604,M,35,15,1,35-44,3,scientist
+5608,M,18,3,1,18-24,1,clerical/admin
+5614,M,25,0,1,25-34,2,other
+5629,M,25,14,1,25-34,2,sales/marketing
+5644,F,18,4,0,18-24,1,college/grad student
+5661,F,25,15,0,25-34,2,scientist
+5673,F,35,1,0,35-44,3,academic/educator
+5679,M,35,2,1,35-44,3,artist
+5715,M,18,4,1,18-24,1,college/grad student
+5718,F,35,14,0,35-44,3,sales/marketing
+5720,M,25,0,1,25-34,2,other
+5723,M,18,12,1,18-24,1,programmer
+5724,M,25,15,1,25-34,2,scientist
+5746,M,18,15,1,18-24,1,scientist
+5754,F,18,1,0,18-24,1,academic/educator
+5775,M,25,11,1,25-34,2,lawyer
+5777,M,1,0,1,Under 18,0,other
+5783,F,45,1,0,45-49,4,academic/educator
+5799,M,25,5,1,25-34,2,customer service
+5804,F,35,7,0,35-44,3,executive/managerial
+5821,M,25,15,1,25-34,2,scientist
+5837,M,25,7,1,25-34,2,executive/managerial
+5845,F,25,3,0,25-34,2,clerical/admin
+5852,F,25,1,0,25-34,2,academic/educator
+5866,F,25,6,0,25-34,2,doctor/health care
+5901,F,35,7,0,35-44,3,executive/managerial
+5912,M,25,1,1,25-34,2,academic/educator
+5924,M,35,0,1,35-44,3,other
+5930,F,35,17,0,35-44,3,technician/engineer
+5932,M,18,14,1,18-24,1,sales/marketing
+5933,M,25,2,1,25-34,2,artist
+5938,M,25,1,1,25-34,2,academic/educator
+5966,F,35,9,0,35-44,3,homemaker
+5994,M,35,1,1,35-44,3,academic/educator
+6000,M,45,17,1,45-49,4,technician/engineer
+6009,F,25,12,0,25-34,2,programmer
+6013,F,25,20,0,25-34,2,writer
+6027,M,18,4,1,18-24,1,college/grad student
+6036,F,25,15,0,25-34,2,scientist
