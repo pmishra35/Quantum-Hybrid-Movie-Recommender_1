@@ -13,7 +13,7 @@ def render(data) -> None:
 
     st.subheader("Project focus")
     st.write(
-        "This MBA final-year project addresses cold-start and data sparsity in movie recommendations "
+        "This M.Tech final-year project addresses cold-start and data sparsity in movie recommendations "
         "using MovieLens 1M. Existing users are served with collaborative signals, while new users can "
         "receive recommendations from demographic similarity."
     )
