@@ -1,0 +1,50 @@
+# Python cache/build files
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+build/
+dist/
+*.egg-info/
+
+# Test/type/lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local env files
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit local config/secrets
+.streamlit/secrets.toml
+
+# Generated model artifacts
+models/*.pkl
+
+# Generated reports/figures
+reports/evaluation_results.csv
+!reports/evaluation_results.csv
+reports/figures/*.png
+reports/final_report.md
+reports/final_report.pdf
+
+# Generated processed data
+data/processed/*.csv
+!data/processed/cleaned_ratings.csv
+!data/processed/cleaned_users.csv
+!data/processed/cleaned_movies.csv
+!data/processed/user_item_matrix.csv
+!data/processed/.gitkeep
+
+# Local raw MovieLens dataset files
+data/raw/ml-1m/
+data/raw/*.dat
